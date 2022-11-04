@@ -8,3 +8,6 @@ Pueden hacer lo que quieran...
 
 ### Actualizado desde github
 Este mensaje fue editado desde github
+
+### Nuevos cambios
+Cambio desde el repositorio local
