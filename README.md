@@ -10,4 +10,4 @@ Pueden hacer lo que quieran...
 Este mensaje fue editado desde github
 
 ### Nuevos cambios
-Cambio desde el repositorio local
+Cambio desde guthub
